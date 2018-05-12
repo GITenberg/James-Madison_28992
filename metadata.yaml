@@ -1,0 +1,30 @@
+_repo: James-Madison_28992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gay, Sydney Howard
+    alias: Gay, Sidney Howard
+    birthdate: 1814
+    deathdate: 1888
+    gutenberg_agent_id: '33623'
+    url: http://www.gutenberg.org/2009/agents/33623
+description: ''
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madison, James, 1751-1836'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1783-1809'
+- !lcsh 'United States -- Politics and government -- 1809-1817'
+title: James Madison
+url: http://www.gutenberg.org/ebooks/28992
